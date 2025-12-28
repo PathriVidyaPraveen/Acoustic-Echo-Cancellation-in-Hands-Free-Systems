@@ -1,0 +1,12 @@
+# Audio / datasets
+LibriSpeech/
+data/
+datasets/
+dev-clean.tar.gz
+# Environments
+.env
+.venv
+conda/
+venv/
+
+
